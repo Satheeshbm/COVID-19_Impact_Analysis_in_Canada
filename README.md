@@ -18,7 +18,7 @@
 6) What is COVID-19's impact on the Canadian CPI?
 #
 Datasets:
-[Statcan](https://www.statcan.gc.ca/en/start), [Kaggle](https://www.kaggle.com/), [Bank of Canada](https://www.bankofcanada.ca/), [FRED](https://fred.stlouisfed.org/), [data.gov](https://www.data.gov/), [Our Wolrd in Data](https://ourworldindata.org/), [Google Community Mobility Reports](https://www.google.com/covid19/mobility/), [mapbox](https://www.mapbox.com/) and individual Canadian province open data websites. See data sources below.
+[Statcan](https://www.statcan.gc.ca/en/start), [Our World in Data](https://ourworldindata.org/), [Google Community Mobility Reports](https://www.google.com/covid19/mobility/), [mapbox](https://www.mapbox.com/) and individual Canadian province open data websites. See data sources below.
 #
 Breakdown of responsibilities:
 
