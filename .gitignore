@@ -4,3 +4,5 @@ google_trend.ipynb
 inflation.csv
 pivot.csv
 trevor_wrangle_upload-Copy1.ipynb
+.env
+.DS_Store
