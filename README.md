@@ -5,6 +5,8 @@
 ###### Contributors: Tyeson Demets (tyedem), Nimai Desai (Nimai95), Trevor Yeomans (YuPsx2), Satheesh Mohan (Satheeshbm)
 
  
+ 
+
  #
   Project Outline: Measuring COVID-19's impact on Canadian job markets, consumer price index, industries and businesses, and community mobility
 
@@ -31,9 +33,10 @@ Breakdown of responsibilities:
 It is expected that the data will show as there is a rise in hospitalizations in Canada, there will be an obvious impact in the Canadian job market, industries and businesses, community mobility trends and the CPI.
 
 # Summary Findings
-#
+
+
 ## COVID-19 Hospitalizations
-#
+##### Note: Must use own mapbox API key to run mapbox plots.
 ![](Images/Tyeson/Canada_summary_map.png)Canada COVID-19 Summary Stats Map
 ### Data Exploration & Cleanup
 
