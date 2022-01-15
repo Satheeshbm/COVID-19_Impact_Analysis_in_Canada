@@ -33,7 +33,7 @@ It is expected that the data will show as there is a rise in hospitalizations in
 # Summary Findings
 #
 ## COVID-19 Hospitalizations
-#
+###### Note: Must use own mapbox API key to run mapbox plots.
 ![](Images/Tyeson/Canada_summary_map.png)Canada COVID-19 Summary Stats Map
 ### Data Exploration & Cleanup
 
